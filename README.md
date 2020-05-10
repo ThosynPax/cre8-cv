@@ -1,2 +1,2 @@
-# cre8-cv
+# Now called "Daragh"
 A website for generating resume/curriculum vitae
